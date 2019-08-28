@@ -2,7 +2,7 @@
 #Code to generate KM plots and generate log rank p-values given gene expression and survival data
 #
 #
-#Usage: Rscript generate_kmPlots_and_pvalsC_TCGA_SARC_DDLPS.R /list/of/genes.txt /matrix/of/expression/values.txt /path/to/survival/data.txt /path/to/outdir
+#Usage: Rscript generate_kmPlots_and_pvals_TCGA_SARC_DDLPS.R /list/of/genes.txt /matrix/of/expression/values.txt /path/to/survival/data.txt /path/to/outdir
 #***Must have pamr and qvalue packages installed, and /path/to/outdir must already exist
 ###################################################################################################
 
